@@ -19,7 +19,7 @@ ko:
         desc_item_1: "1. 식별번호 신청하기"
         desc_item_2: "2.COINPLUS은행계좌로 송금합니다.  비고창에 꼭 식별번호를 입력하세요."
         desc_item_3: "3.은행입금 확인되면 바로 회원님이 계정로 충전합니다."
-        attention: "송금자의  계좌 이름과 COINPLUS거래소 회원님의 계정 이름 일치해야합니다"
+        attention: "송금자의  계좌 이름과 GraViex 거래소 회원님의 계정 이름 일치해야합니다"
         from: From
         to: TO
         deposit_name: 이름
